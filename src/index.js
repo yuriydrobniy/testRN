@@ -28,6 +28,9 @@ export default class Intro extends Component {
         <Text style={styles.instructions}>
           This is a React Native snapshot test.
         </Text>
+        <Text style={styles.instructions}>
+          This is a React Native snapshot test.
+        </Text>
       </View>
     );
   }
